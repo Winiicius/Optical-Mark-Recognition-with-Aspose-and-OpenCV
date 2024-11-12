@@ -1,3 +1,22 @@
-?answer_sheet=MainQuestions
-	elements_count=200
-	columns_count=5
+?container=Prova
+	columns_count=2
+?block=Column matricula
+	column=1
+?text=Nome:_____________________________ 		Data:__/__/____
+?grid=Matrícula
+	sections_count=12
+	orientation=horizontal
+&block
+&container
+?container=Questões
+?text=Cartão-Resposta
+	font_size=16
+	font_style=bold
+?empty_line=
+?answer_sheet=Teste
+	columns_count=2
+	elements_count=20
+	answers_count=5
+	bubble_size=large
+	vertical_margin=10
+	answers_list=(a)(b)(c)(d)(e)

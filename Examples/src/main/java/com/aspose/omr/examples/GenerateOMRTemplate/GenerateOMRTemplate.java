@@ -1,7 +1,10 @@
 package com.aspose.omr.examples.GenerateOMRTemplate;
 
 import com.aspose.omr.GenerationResult;
+import com.aspose.omr.GlobalPageSettings;
 import com.aspose.omr.OmrEngine;
+import com.aspose.omr.OmrTemplate;
+import com.aspose.omr.TemplateProcessor;
 import com.aspose.omr.examples.Utils;
 
 public class GenerateOMRTemplate {
@@ -10,8 +13,8 @@ public class GenerateOMRTemplate {
         String sourceDirectory = Utils.combine(Utils.getSourceDirectory(), "Generation");
         String outputDirectory = Utils.combine(Utils.getOutputDirectory(), "GenerationResult");
 
-        String[] GenerationMarkups = new String[] { "Sheet.txt", "Grid.txt", "AsposeTest.txt" };
-        String[] GenerationMarkupsNoExt = new String[] { "Sheet", "Grid", "AsposeTest" };
+        String[] GenerationMarkups = new String[] { "MyGrid.txt"};
+        String[] GenerationMarkupsNoExt = new String[] { "MyGrid"};
 
         OmrEngine engine = new OmrEngine();
 
@@ -19,7 +22,8 @@ public class GenerateOMRTemplate {
         {
             // call template generation providing path to the txt file with markup
             GenerationResult res = engine.generateTemplate(Utils.combine(sourceDirectory, GenerationMarkups[i]));
-
+            
+            
             // check in case of errors
             if (res.getErrorCode() != 0)
             {

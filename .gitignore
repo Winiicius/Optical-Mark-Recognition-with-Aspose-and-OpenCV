@@ -14,6 +14,7 @@ test-output/
 .DS_Store
 
 # Others
+libs/
 Temp/
 obj/
 classes/
@@ -37,3 +38,4 @@ Out/
 Out*/
 *.lic
 Data/*Out*
+license/

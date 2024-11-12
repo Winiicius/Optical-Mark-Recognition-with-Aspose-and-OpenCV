@@ -9,7 +9,7 @@ public class LoadLicenseFromFile {
         License omrLicense = new License();
         // Set license
         // Pass valid license path
-        omrLicense.setLicense("Aspose.OMR.lic");
+        omrLicense.setLicense("Aspose.OMR-for-Java\\Examples\\src\\main\\java\\com\\aspose\\omr\\examples\\GettingStarted\\Aspose.OMRforJava.lic");
         // ExEnd:1
         System.out.println("LoadLicenseFromFile executed successfully.\n\r");
     }

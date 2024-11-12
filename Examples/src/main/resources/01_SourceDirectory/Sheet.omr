@@ -623,7 +623,311 @@
 							],
 							"Multiselect": false,
 							"Orientation": "Horizontal"
-						}
+						},
+						{
+							"Type": "ChoiceBox",
+							"Name": null,
+							"Width": 62,
+							"Height": 704,
+							"Top": 580,
+							"Left": 903,
+							"AlignedHorizontally": false,
+							"AlignedVertically": false,
+							"BubbleHeight": 60,
+							"BubbleWidth": 60,
+							"Bubbles": [
+								{
+									"Value": "0",
+									"Top": 582,
+									"Left": 905,
+									"IsValid": true
+								},
+								{
+									"Value": "1",
+									"Top": 652,
+									"Left": 905,
+									"IsValid": true
+								},
+								{
+									"Value": "2",
+									"Top": 722,
+									"Left": 905,
+									"IsValid": true
+								},
+								{
+									"Value": "3",
+									"Top": 792,
+									"Left": 905,
+									"IsValid": true
+								},
+								{
+									"Value": "4",
+									"Top": 862,
+									"Left": 905,
+									"IsValid": true
+								},
+								{
+									"Value": "5",
+									"Top": 932,
+									"Left": 905,
+									"IsValid": true
+								},
+								{
+									"Value": "6",
+									"Top": 1002,
+									"Left": 905,
+									"IsValid": true
+								},
+								{
+									"Value": "7",
+									"Top": 1072,
+									"Left": 905,
+									"IsValid": true
+								},
+								{
+									"Value": "8",
+									"Top": 1142,
+									"Left": 905,
+									"IsValid": true
+								},
+								{
+									"Value": "9",
+									"Top": 1212,
+									"Left": 905,
+									"IsValid": true
+								}
+							],
+							"Multiselect": false,
+							"Orientation": "Horizontal"
+						},
+						{
+							"Type": "ChoiceBox",
+							"Name": null,
+							"Width": 62,
+							"Height": 704,
+							"Top": 580,
+							"Left": 975,
+							"AlignedHorizontally": false,
+							"AlignedVertically": false,
+							"BubbleHeight": 60,
+							"BubbleWidth": 60,
+							"Bubbles": [
+								{
+									"Value": "0",
+									"Top": 582,
+									"Left": 977,
+									"IsValid": true
+								},
+								{
+									"Value": "1",
+									"Top": 652,
+									"Left": 977,
+									"IsValid": true
+								},
+								{
+									"Value": "2",
+									"Top": 722,
+									"Left": 977,
+									"IsValid": true
+								},
+								{
+									"Value": "3",
+									"Top": 792,
+									"Left": 977,
+									"IsValid": true
+								},
+								{
+									"Value": "4",
+									"Top": 862,
+									"Left": 977,
+									"IsValid": true
+								},
+								{
+									"Value": "5",
+									"Top": 932,
+									"Left": 977,
+									"IsValid": true
+								},
+								{
+									"Value": "6",
+									"Top": 1002,
+									"Left": 977,
+									"IsValid": true
+								},
+								{
+									"Value": "7",
+									"Top": 1072,
+									"Left": 977,
+									"IsValid": true
+								},
+								{
+									"Value": "8",
+									"Top": 1142,
+									"Left": 977,
+									"IsValid": true
+								},
+								{
+									"Value": "9",
+									"Top": 1212,
+									"Left": 977,
+									"IsValid": true
+								}
+							],
+							"Multiselect": false,
+							"Orientation": "Horizontal"
+						},
+						{
+							"Type": "ChoiceBox",
+							"Name": null,
+							"Width": 62,
+							"Height": 704,
+							"Top": 580,
+							"Left": 1047,
+							"AlignedHorizontally": false,
+							"AlignedVertically": false,
+							"BubbleHeight": 60,
+							"BubbleWidth": 60,
+							"Bubbles": [
+								{
+									"Value": "0",
+									"Top": 582,
+									"Left": 1049,
+									"IsValid": true
+								},
+								{
+									"Value": "1",
+									"Top": 652,
+									"Left": 1049,
+									"IsValid": true
+								},
+								{
+									"Value": "2",
+									"Top": 722,
+									"Left": 1049,
+									"IsValid": true
+								},
+								{
+									"Value": "3",
+									"Top": 792,
+									"Left": 1049,
+									"IsValid": true
+								},
+								{
+									"Value": "4",
+									"Top": 862,
+									"Left": 1049,
+									"IsValid": true
+								},
+								{
+									"Value": "5",
+									"Top": 932,
+									"Left": 1049,
+									"IsValid": true
+								},
+								{
+									"Value": "6",
+									"Top": 1002,
+									"Left": 1049,
+									"IsValid": true
+								},
+								{
+									"Value": "7",
+									"Top": 1072,
+									"Left": 1049,
+									"IsValid": true
+								},
+								{
+									"Value": "8",
+									"Top": 1142,
+									"Left": 1049,
+									"IsValid": true
+								},
+								{
+									"Value": "9",
+									"Top": 1212,
+									"Left": 1049,
+									"IsValid": true
+								}
+							],
+							"Multiselect": false,
+							"Orientation": "Horizontal"
+						},
+						{
+							"Type": "ChoiceBox",
+							"Name": null,
+							"Width": 62,
+							"Height": 704,
+							"Top": 580,
+							"Left": 1119,
+							"AlignedHorizontally": false,
+							"AlignedVertically": false,
+							"BubbleHeight": 60,
+							"BubbleWidth": 60,
+							"Bubbles": [
+								{
+									"Value": "0",
+									"Top": 582,
+									"Left": 1121,
+									"IsValid": true
+								},
+								{
+									"Value": "1",
+									"Top": 652,
+									"Left": 1121,
+									"IsValid": true
+								},
+								{
+									"Value": "2",
+									"Top": 722,
+									"Left": 1121,
+									"IsValid": true
+								},
+								{
+									"Value": "3",
+									"Top": 792,
+									"Left": 1121,
+									"IsValid": true
+								},
+								{
+									"Value": "4",
+									"Top": 862,
+									"Left": 1121,
+									"IsValid": true
+								},
+								{
+									"Value": "5",
+									"Top": 932,
+									"Left": 1121,
+									"IsValid": true
+								},
+								{
+									"Value": "6",
+									"Top": 1002,
+									"Left": 1121,
+									"IsValid": true
+								},
+								{
+									"Value": "7",
+									"Top": 1072,
+									"Left": 1121,
+									"IsValid": true
+								},
+								{
+									"Value": "8",
+									"Top": 1142,
+									"Left": 1121,
+									"IsValid": true
+								},
+								{
+									"Value": "9",
+									"Top": 1212,
+									"Left": 1121,
+									"IsValid": true
+								}
+							],
+							"Multiselect": false,
+							"Orientation": "Horizontal"
+						},
 					],
 					"Orientation": "Horizontal"
 				},

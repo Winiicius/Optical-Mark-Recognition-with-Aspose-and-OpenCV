@@ -9,12 +9,12 @@ import com.aspose.omr.examples.PerformOMR.PerformOMRWithThreshold;
 
 public class main {
     public static void main(String[] args) throws Exception {
-//        LoadLicenseFromFile.run();
-//        LoadLicenseFromStream.run();
+        LoadLicenseFromFile.run();
+        LoadLicenseFromStream.run();
 
-//        GenerateOMRTemplate.run();
-//        PerformOMROnImages.run();
-//        PerformOMRWithThreshold.run();
-//        PerformOMRRecalculation.run();
+        // GenerateOMRTemplate.run();
+        PerformOMROnImages.run();
+        // PerformOMRWithThreshold.run();
+    //    PerformOMRRecalculation.run();
     }
 }
