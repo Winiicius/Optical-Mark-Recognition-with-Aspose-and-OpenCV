@@ -1,10 +1,7 @@
 package com.aspose.omr.examples.GenerateOMRTemplate;
 
 import com.aspose.omr.GenerationResult;
-import com.aspose.omr.GlobalPageSettings;
 import com.aspose.omr.OmrEngine;
-import com.aspose.omr.OmrTemplate;
-import com.aspose.omr.TemplateProcessor;
 import com.aspose.omr.examples.Utils;
 
 public class GenerateOMRTemplate {
@@ -13,6 +10,7 @@ public class GenerateOMRTemplate {
         String sourceDirectory = Utils.combine(Utils.getSourceDirectory(), "Generation");
         String outputDirectory = Utils.combine(Utils.getOutputDirectory(), "GenerationResult");
 
+        // Arquivo base que vai construir o arquivo .omr e .jpg
         String[] GenerationMarkups = new String[] { "MyGrid.txt"};
         String[] GenerationMarkupsNoExt = new String[] { "MyGrid"};
 

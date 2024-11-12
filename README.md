@@ -1,3 +1,12 @@
+# Para usar
+
+  - É necessário ter uma licença de uso, que é obtida através do site da aspose
+  - É necessário instalar o OpenCv em sua máquina para rodar o código
+
+# Minhas alterações
+
+Somente o código básico do aspose não estava dando conta, dificilmente ele lê uma imagem sem estar com threshold aplicado(filtro para melhor identificação das marcações), e as vezes mesmo com o threshold aplicado dava errado, então usei o OpenCV para aplicar um threshold personalizado na imagem, assim melhorou os resultados. Ainda é preciso algumas restrições para consiguir um resultado preciso, mas, tá funcionando!
+
 # Java API to Perform OMR
 
 [Aspose.OMR for Java](https://products.aspose.com/omr/java) is a Java class library that provides API to recognize optical marks from OMR digitized sheet images. It can be used to recognize optical marks in a variety of image formats like BMP, JPG, TIF, TIFF, GIF. The API allows capturing human-marked data from document forms such as surveys, questionnaires, multiple-choice examination papers, and other tests. With this solution, it is possible to recognize scanned images and even photos with high accuracy. Recognition is based on a template markup which contains a graphical mapping of the elements to be recognized from the scanned images.
